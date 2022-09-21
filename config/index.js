@@ -88,7 +88,7 @@ export const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         {"keyword": "love_day", date: "2020-05-11"},
-      ]
+      ],
     },
     {
       name: "张馨宝贝",

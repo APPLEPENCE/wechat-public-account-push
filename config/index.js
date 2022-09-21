@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ozLNv6bhypwcaHhJawUh-puDs424",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "NNpTnE-HyzR6A91kYmlbWXU5z4MTZUw0lyG3EJsaBi8",
+      useTemplateId: "mE-AL8w3YU3SRsSN_BC0_mWVz0Od1zzgg3A6hACrdo4",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -139,7 +139,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "NNpTnE-HyzR6A91kYmlbWXU5z4MTZUw0lyG3EJsaBi8",
+  CALLBACK_TEMPLATE_ID: "mE-AL8w3YU3SRsSN_BC0_mWVz0Od1zzgg3A6hACrdo4",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [ozLNv6bhypwcaHhJawUh-puDs424

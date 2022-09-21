@@ -57,7 +57,7 @@ export const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [ozLNv6bhypwcaHhJawUh-puDs424
+  USERS: [
     {
       // 想要发送的人的名字
       name: "张馨宝贝",
@@ -139,10 +139,10 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "mE-AL8w3YU3SRsSN_BC0_mWVz0Od1zzgg3A6hACrdo4",
+  CALLBACK_TEMPLATE_ID: "EOaqzWtimZEZRK1apuM0wxNzGuWpbDvvefnFrxjzdQk",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [ozLNv6bhypwcaHhJawUh-puDs424
+  CALLBACK_USERS: [
     {
       // 一般都填自己
       name: "自己",

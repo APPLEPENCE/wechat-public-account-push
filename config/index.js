@@ -96,15 +96,15 @@ export const USER_CONFIG = {
     },
     {
       name: "张馨宝贝",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      id: "ozLNv6bhypwcaHhJawUh-puDs424",
+      useTemplateId: "mE-AL8w3YU3SRsSN_BC0_mWVz0Od1zzgg3A6hACrdo4",
+      province: "陕西",
+      city: "西安",
+      horoscopeDate: '01-25',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [{"type": "*生日", "name": "张馨宝贝", "year": "2001", "date": "12-13"},],
+      customizedDateList: [{"type": "节日", "name": "在一起的日子", "year": "2020", "date": "05-11"},]
     },
     {
       name: "老婆2",
